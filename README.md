@@ -25,7 +25,7 @@ git version 2.53.0
     
     ![no_data.png](./screenshots/no_data.png)
     
-    ![no_data.png](./screenshots/no_data.png)
+    ![play_quiz.png](./screenshots/play_quiz.png)
     
 - 문제 추가
     
