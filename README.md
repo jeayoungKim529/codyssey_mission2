@@ -23,36 +23,27 @@ git version 2.53.0
 
 - 문제 풀기
     
-    ![image](./screenshots/no_data.png)
+    ![no_data.png](./screenshots/no_data.png)
     
-    ![image.png](attachment:aeb1b586-9f72-41d7-ab88-28f8f86b8911:image.png)
+    ![no_data.png](./screenshots/no_data.png)
     
 - 문제 추가
     
-    ![image.png](attachment:7d2f2702-66b6-4762-bad5-91e3056b13f0:image.png)
+    ![add_quiz.png](./screenshots/add_quiz.png)
     
 - 문제 목록
     
-    ![image.png](attachment:efe6e33a-9f05-4aaa-bc06-401a4cd5352b:image.png)
-    
+    ![list_quiz.png](./screenshots/list_quiz.png)    
 - 점수 확인
     
-    ![image.png](attachment:d0c7e6b7-add3-43fe-8a4c-769980aef7d9:image.png)
-    
+    ![score.png](./screenshots/score.png)    
 - 잘못된 입력 처리
     
-    ![image.png](attachment:137ed450-7b14-4ad7-9409-4cc109ca4b89:image.png)
-    
-    ![image.png](attachment:45923918-9092-41c4-81db-5be483c42ca2:image.png)
-    
-    ![image.png](attachment:e9becba7-dd37-43a4-a511-eb95245e2d70:image.png)
-    
+    ![wrong_input.png](./screenshots/wrong_input.png)  
 - 프로그램 재시작 후 데이터 유지
     
-    ![image.png](attachment:acab61cc-5d3d-43a1-a039-a0b47fa8e6f8:image.png)
-    
-    ![image.png](attachment:457ba5e3-1994-403f-b50a-9dc8022c68ab:image.png)
-    
+    ![load_data.png](./screenshots/load_data.png)    
+    ![load_data.png](./screenshots/load_data.png)    
 
 ## 파일 구조
 
