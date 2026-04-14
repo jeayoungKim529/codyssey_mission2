@@ -23,7 +23,7 @@ git version 2.53.0
 
 - 문제 풀기
     
-    ![image.png](attachment:fe85adac-3d30-4037-baeb-025d74280d1a:image.png)
+    ![image.png](./screenshots/no_data.png)
     
     ![image.png](attachment:aeb1b586-9f72-41d7-ab88-28f8f86b8911:image.png)
     
