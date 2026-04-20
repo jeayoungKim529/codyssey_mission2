@@ -202,7 +202,7 @@ mission2
 
 - 초기 설정 완료 후 첫 번째 `commit`과 `push`를 수행한다.
 
-![Screenshot 2026-04-18 at 4.58.01 PM.png](attachment:8fdcf502-e865-4aa2-9a9a-9269c1ea3221:Screenshot_2026-04-18_at_4.58.01_PM.png)
+![git_log.png](./screenshots/git_log.png)    
 
 - 메뉴 기능 완성 후 커밋한다.
 - **공통 입력/예외 처리 기준 (최소 요구)**
