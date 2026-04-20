@@ -1,5 +1,3 @@
-# codyssey_mission2
-
 ## 프로젝트 개요
 
 ### python 버전
@@ -34,16 +32,20 @@ git version 2.53.0
 - 문제 목록
     
     ![list_quiz.png](./screenshots/list_quiz.png)    
+    
 - 점수 확인
     
-    ![score.png](./screenshots/score.png)    
+    ![score.png](./screenshots/score.png) 
+    
 - 잘못된 입력 처리
     
     ![wrong_input.png](./screenshots/wrong_input.png)  
+    
 - 프로그램 재시작 후 데이터 유지
     
     ![load_data.png](./screenshots/load_data.png)    
     ![load_data.png](./screenshots/load_data.png)    
+    
 
 ## 파일 구조
 
@@ -157,7 +159,7 @@ mission2
     - 파일 없는 경우, 권한 없는 경우, 형식이 깨지는 경우의 예외를 위해 많이 사용
     - CtrlC : 현재 실행 중인 작업 강제 종료, 프로세스 종료
     - CtrlD : 입력 종료, 입력 끝/쉘 종료 가능
-    - CtrlZ : 현재 작업 일시 정지, 프로세스 suspend
+    - ~~CtrlZ : 현재 작업 일시 정지, 프로세스 suspend~~
 
 **Git 기초**
 
@@ -200,13 +202,7 @@ mission2
 
 - 초기 설정 완료 후 첫 번째 `commit`과 `push`를 수행한다.
 
-```jsx
-commit 7de40d68f91c5bfc4df02e04319ae4d599e05cc5 (HEAD -> main, origin/main, origin/HEAD)
-Author: jeayoungKim529 <jeay529@gmail.com>
-Date:   Tue Apr 7 13:49:40 2026 +0900
-
-    초기 설정
-```
+![Screenshot 2026-04-18 at 4.58.01 PM.png](attachment:8fdcf502-e865-4aa2-9a9a-9269c1ea3221:Screenshot_2026-04-18_at_4.58.01_PM.png)
 
 - 메뉴 기능 완성 후 커밋한다.
 - **공통 입력/예외 처리 기준 (최소 요구)**
@@ -289,6 +285,8 @@ Date:   Tue Apr 7 13:49:40 2026 +0900
     - 프로그램 종료 후에도 데이터 유지 가능
     - 다시 불러오기 쉬움
     - 다른 언어와 호환 쉬움 (ex. 웹서버)
+    - 데이터가 커지면 부분 수정이 어려움
+    - 중간 취소 시 파일 손상 가능
 - `try/except`를 사용하여 오류를 처리할 수 있다.
     - 파일 없는 경우, 권한 없는 경우, 형식이 깨지는 경우의 예외를 위해 많이 사용
 
@@ -308,6 +306,7 @@ Date:   Tue Apr 7 13:49:40 2026 +0900
     - checkout: 브랜치 이동 또는 특정 commit 이동
     - clone: 원격 저장소 전체 복사
 - 브랜치를 생성하고 병합할 수 있다.
+    - 기존 코드에 영향을 미치지 않고 코드 작성 가능
     - 생성
     
     ```bash
